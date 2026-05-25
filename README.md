@@ -2,7 +2,7 @@
 
 <!--
 **EduBello0919/EduBello0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a student in UTRGV, majoring in electrical engineering with a minor in computer science
